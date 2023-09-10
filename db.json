@@ -32,36 +32,13 @@
       "id": 2
     }
   ],
-  "Login": [
-    {
-      "Username": "paras@gmail.com",
-      "Password": "paras4626",
-      "id": 1
-    }
-  ],
-  "Logout": [
-    {
-      "username": "paras12@gmail.com",
-      "password": "parasqw",
-      "id": 1
-    }
-  ],
   "Register": [
     {
       "FristName": "paras",
       "LastName": "vekariya",
-      "Email": "paras@gmail.com",
+      "id": "parasvekariya2000@gmail.com",
       "Number": "7600761497",
-      "Password": "paras4626",
-      "id": 1
-    },
-    {
-      "FristName": "paras",
-      "LastName": "vekariya",
-      "Email": "paras@gmail.com",
-      "Number": "7600761497",
-      "Password": "paras4626",
-      "id": 2
+      "Password": "paras4626"
     }
   ],
   "category": [
@@ -399,6 +376,17 @@
       "productdes": "Baby",
       "date": "2023-08-05",
       "id": 2
+    },
+    {
+      "category": "Men's Dresses",
+      "productname": "Men Shirt",
+      "productimg": "https://themewagon.github.io/eshopper/img/product-3.jpg",
+      "productqut": "1",
+      "offerprice": "688",
+      "productprice": "788",
+      "productdes": "Men",
+      "date": "2023-08-05",
+      "id": 6
     }
   ]
 }
